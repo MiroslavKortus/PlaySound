@@ -1,0 +1,2796 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Francais>
+<Lesson lesson="01">
+  <Sentence>
+    <HomeLanguage>jedna</HomeLanguage>
+    <ForeignLanguage>un</ForeignLanguage>
+    <SoundFileName>01010100</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dívejte se!</HomeLanguage>
+    <ForeignLanguage>Regardez!</ForeignLanguage>
+    <SoundFileName>01010101</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ludvíku, dívejte se!</HomeLanguage>
+    <ForeignLanguage>Louis, regardez!</ForeignLanguage>
+    <SoundFileName>01010102</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dívejte se na Notre-Dame!</HomeLanguage>
+    <ForeignLanguage>Regardez Notre-Dame!</ForeignLanguage>
+    <SoundFileName>01010103</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Kde?</HomeLanguage>
+    <ForeignLanguage>Où?</ForeignLanguage>
+    <SoundFileName>01010104</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Tam!</HomeLanguage>
+    <ForeignLanguage>Là!</ForeignLanguage>
+    <SoundFileName>01010105</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Tamhle?</HomeLanguage>
+    <ForeignLanguage>Là-bas?</ForeignLanguage>
+    <SoundFileName>01010106</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ano, tamhle!</HomeLanguage>
+    <ForeignLanguage>Oui, là-bas!</ForeignLanguage>
+    <SoundFileName>01010107</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dívejte se tamhle!</HomeLanguage>
+    <ForeignLanguage>Regardez là-bas!</ForeignLanguage>
+    <SoundFileName>01010108</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno a Ludvíku, dívejte se!</HomeLanguage>
+    <ForeignLanguage>Anne et Louis, regardez!</ForeignLanguage>
+    <SoundFileName>01010109</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dívejte se na Notre-Dame, tamhle!</HomeLanguage>
+    <ForeignLanguage>Regardez Notre-Dame, là-bas!</ForeignLanguage>
+    <SoundFileName>01010110</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>dvě</HomeLanguage>
+    <ForeignLanguage>deux</ForeignLanguage>
+    <SoundFileName>01010200</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno, zůstaň zde!</HomeLanguage>
+    <ForeignLanguage>Hélène, reste ici!</ForeignLanguage>
+    <SoundFileName>01010201</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno, zůstaň tam!</HomeLanguage>
+    <ForeignLanguage>Anne, reste là!</ForeignLanguage>
+    <SoundFileName>01010202</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstaň tam, prosím!</HomeLanguage>
+    <ForeignLanguage>Reste là, s'ill te plait!</ForeignLanguage>
+    <SoundFileName>01010203</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno, zůstaň vedle Ludvíka!</HomeLanguage>
+    <ForeignLanguage>Hélène reste à côté de Louis!</ForeignLanguage>
+    <SoundFileName>01010204</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno a Anno, zůstaňte tam!</HomeLanguage>
+    <ForeignLanguage>Hélène et Anne, restez là!</ForeignLanguage>
+    <SoundFileName>01010205</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno, podívej se na Ludvíka!</HomeLanguage>
+    <ForeignLanguage>Hélène, regarde Louis!</ForeignLanguage>
+    <SoundFileName>01010206</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Podívej se, prosím tě, na Ludvíka!</HomeLanguage>
+    <ForeignLanguage>Regarde Louis, s'ill te plait!</ForeignLanguage>
+    <SoundFileName>01010207</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno a Heleno, podívejte se na Ludvíka!</HomeLanguage>
+    <ForeignLanguage>Anne et Hélène, regardez Louis!</ForeignLanguage>
+    <SoundFileName>01010208</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Podívejte se na Ludvíka, prosím Vás!</HomeLanguage>
+    <ForeignLanguage>Regardez Louis, s'ill vous plait!</ForeignLanguage>
+    <SoundFileName>01010209</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Děkuji.</HomeLanguage>
+    <ForeignLanguage>Merci.</ForeignLanguage>
+    <SoundFileName>01010210</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>tři</HomeLanguage>
+    <ForeignLanguage>trois</ForeignLanguage>
+    <SoundFileName>01010300</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno, dívej se!</HomeLanguage>
+    <ForeignLanguage>Anne, regarde!</ForeignLanguage>
+    <SoundFileName>01010301</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno a Heleno, zůstaňte tam!</HomeLanguage>
+    <ForeignLanguage>Anne et Hélène, restez là!</ForeignLanguage>
+    <SoundFileName>01010302</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno, podívejte se na Ludvíka!</HomeLanguage>
+    <ForeignLanguage>Hélène, regardez Louis!</ForeignLanguage>
+    <SoundFileName>01010303</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ludvíku, zůstaň tam!</HomeLanguage>
+    <ForeignLanguage>Louis, reste là!</ForeignLanguage>
+    <SoundFileName>01010304</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno, zůstaň vedle Ludvíka!</HomeLanguage>
+    <ForeignLanguage>Anne, reste à côté de Louis!</ForeignLanguage>
+    <SoundFileName>01010305</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ludvíku a Heleno, podívejte se na Annu!</HomeLanguage>
+    <ForeignLanguage>Louis et Hélène, regardez Anne!</ForeignLanguage>
+    <SoundFileName>01010306</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anno, podívej se tamhle!</HomeLanguage>
+    <ForeignLanguage>Anne, regarde là-bas!</ForeignLanguage>
+    <SoundFileName>01010307</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno, podívej se na Annu!</HomeLanguage>
+    <ForeignLanguage>Hélène, regarde Anne!</ForeignLanguage>
+    <SoundFileName>01010308</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+</Lesson>
+<Lesson lesson="02">
+  <Sentence>
+    <HomeLanguage>čtyři</HomeLanguage>
+    <ForeignLanguage>quatre</ForeignLanguage>
+    <SoundFileName>01020400</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstaň tady!</HomeLanguage>
+    <ForeignLanguage>Reste ici!</ForeignLanguage>
+    <SoundFileName>01020401</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezůstávej tam!</HomeLanguage>
+    <ForeignLanguage>Ne reste pas là!</ForeignLanguage>
+    <SoundFileName>01020402</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstaňte zde, prosím!</HomeLanguage>
+    <ForeignLanguage>Restez ici, s'ill vous plait!</ForeignLanguage>
+    <SoundFileName>01020403</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezůstávejte tam!</HomeLanguage>
+    <ForeignLanguage>Ne restez pas là!</ForeignLanguage>
+    <SoundFileName>01020404</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno, poslouchej, prosím!</HomeLanguage>
+    <ForeignLanguage>Hélène, écoute, s'ill te plait!</ForeignLanguage>
+    <SoundFileName>01020405</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Neposlouchej Toníka!</HomeLanguage>
+    <ForeignLanguage>N'écoute pas Antoine!</ForeignLanguage>
+    <SoundFileName>01020406</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Heleno a Anno, poslouchejte, prosím.</HomeLanguage>
+    <ForeignLanguage>Hélène et Anne, écoutez, s'ill vous plait!</ForeignLanguage>
+    <SoundFileName>01020407</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezpívejte!</HomeLanguage>
+    <ForeignLanguage>Ne chantez pas!</ForeignLanguage>
+    <SoundFileName>01020408</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Teď nezpívejte!</HomeLanguage>
+    <ForeignLanguage>Ne chantez pas maintenant!</ForeignLanguage>
+    <SoundFileName>01020409</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zatím nezpívejte! / Ještě nezpívejte!</HomeLanguage>
+    <ForeignLanguage>Ne chantez pas encore!</ForeignLanguage>
+    <SoundFileName>01020410</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>pět</HomeLanguage>
+    <ForeignLanguage>cinq</ForeignLanguage>
+    <SoundFileName>01020500</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvme francouzsky.</HomeLanguage>
+    <ForeignLanguage>Parlons français.</ForeignLanguage>
+    <SoundFileName>01020501</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvme spolu francouzsky.</HomeLanguage>
+    <ForeignLanguage>Parlons français ensemble.</ForeignLanguage>
+    <SoundFileName>01020502</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvme s Annou nebo Ludvíkem.</HomeLanguage>
+    <ForeignLanguage>Parlons avec Anne ou Louis.</ForeignLanguage>
+    <SoundFileName>01020503</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvme francouzsky s Annou nebo Ludvíkem.</HomeLanguage>
+    <ForeignLanguage>Parlons français avec Anne ou Louis.</ForeignLanguage>
+    <SoundFileName>01020504</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstaňme spolu.</HomeLanguage>
+    <ForeignLanguage>Restons ensemble.</ForeignLanguage>
+    <SoundFileName>01020505</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezůstávejme tady.</HomeLanguage>
+    <ForeignLanguage>Ne restons pas ici.</ForeignLanguage>
+    <SoundFileName>01020506</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nemluvnme tady.</HomeLanguage>
+    <ForeignLanguage>Ne parlons pas ici.</ForeignLanguage>
+    <SoundFileName>01020507</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Teď nemluvme.</HomeLanguage>
+    <ForeignLanguage>Ne parlons pas maintenant.</ForeignLanguage>
+    <SoundFileName>01020508</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zpívejme!</HomeLanguage>
+    <ForeignLanguage>Chantons!</ForeignLanguage>
+    <SoundFileName>01020509</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zpívejme společně.</HomeLanguage>
+    <ForeignLanguage>Chantons ensemble!</ForeignLanguage>
+    <SoundFileName>01020510</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>šest</HomeLanguage>
+    <ForeignLanguage>six</ForeignLanguage>
+    <SoundFileName>01020600</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zpívejte společně!</HomeLanguage>
+    <ForeignLanguage>Chantez ensemble!</ForeignLanguage>
+    <SoundFileName>01020601</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Neposlouchej!</HomeLanguage>
+    <ForeignLanguage>N'écoute pas!</ForeignLanguage>
+    <SoundFileName>01020602</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Poslouchejte!</HomeLanguage>
+    <ForeignLanguage>Écoutez!</ForeignLanguage>
+    <SoundFileName>01020603</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ještě se nedívej.</HomeLanguage>
+    <ForeignLanguage>Ne regarde pas encore!</ForeignLanguage>
+    <SoundFileName>01020604</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezpívejte!</HomeLanguage>
+    <ForeignLanguage>Ne chantez pas!</ForeignLanguage>
+    <SoundFileName>01020605</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dívejme se!</HomeLanguage>
+    <ForeignLanguage>Regardons!</ForeignLanguage>
+    <SoundFileName>01020606</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstaňme!</HomeLanguage>
+    <ForeignLanguage>Restons!</ForeignLanguage>
+    <SoundFileName>01020607</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Poslouchejme!</HomeLanguage>
+    <ForeignLanguage>Écoutons!</ForeignLanguage>
+    <SoundFileName>01020608</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvme!</HomeLanguage>
+    <ForeignLanguage>Parlons!</ForeignLanguage>
+    <SoundFileName>01020609</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstaňme zde!</HomeLanguage>
+    <ForeignLanguage>Restons ici!</ForeignLanguage>
+    <SoundFileName>01020610</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nemluvme!</HomeLanguage>
+    <ForeignLanguage>Ne parlons pas!</ForeignLanguage>
+    <SoundFileName>01020611</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Podívejme se támhle!</HomeLanguage>
+    <ForeignLanguage>Regardons là-bas!</ForeignLanguage>
+    <SoundFileName>01020612</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+</Lesson>
+<Lesson lesson="03">
+  <Sentence>
+    <HomeLanguage>sedm</HomeLanguage>
+    <ForeignLanguage>sept</ForeignLanguage>
+    <SoundFileName>01030700</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dobrý den!</HomeLanguage>
+    <ForeignLanguage>Bonjour!</ForeignLanguage>
+    <SoundFileName>01030701</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Žiji ve Francii.</HomeLanguage>
+    <ForeignLanguage>J'habite en France.</ForeignLanguage>
+    <SoundFileName>01030702</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Žiji v Nice.</HomeLanguage>
+    <ForeignLanguage>J'habite à Nice.</ForeignLanguage>
+    <SoundFileName>01030703</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvím francouzsky a italsky.</HomeLanguage>
+    <ForeignLanguage>Je parle français et italien.</ForeignLanguage>
+    <SoundFileName>01030704</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvíš německy?</HomeLanguage>
+    <ForeignLanguage>Tu parles allemand?</ForeignLanguage>
+    <SoundFileName>01030705</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ne, nemluvím německy.</HomeLanguage>
+    <ForeignLanguage>Non, je ne parle pas allemand.</ForeignLanguage>
+    <SoundFileName>01030706</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvíš anglicky?</HomeLanguage>
+    <ForeignLanguage>Tu parles anglais?</ForeignLanguage>
+    <SoundFileName>01030707</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>osm</HomeLanguage>
+    <ForeignLanguage>huit</ForeignLanguage>
+    <SoundFileName>01030800</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Navštívíme Paříž.</HomeLanguage>
+    <ForeignLanguage>Nous visitons Paris.</ForeignLanguage>
+    <SoundFileName>01030801</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Také navštívíte Paříž?</HomeLanguage>
+    <ForeignLanguage>Vous visitez Paris aussi?</ForeignLanguage>
+    <SoundFileName>01030802</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ne, žijeme zde.</HomeLanguage>
+    <ForeignLanguage>Non, nous habitons ici.</ForeignLanguage>
+    <SoundFileName>01030803</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Bydlíme na bulváru Saint-Germain.</HomeLanguage>
+    <ForeignLanguage>Nous habitons boulevard Saint-Germain.</ForeignLanguage>
+    <SoundFileName>01030804</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Bydlíte blízko Saint-Germain-des-Près?</HomeLanguage>
+    <ForeignLanguage>Vous habitez près de Saint-Germain-des-Prés?</ForeignLanguage>
+    <SoundFileName>01030805</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ano, velmi blízko.</HomeLanguage>
+    <ForeignLanguage>Oui, très près.</ForeignLanguage>
+    <SoundFileName>01030806</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvíte velmi dobře francouzsky!</HomeLanguage>
+    <ForeignLanguage>Vous parlez trèz bien français!</ForeignLanguage>
+    <SoundFileName>01030807</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Myslíte? Děkuji!</HomeLanguage>
+    <ForeignLanguage>Vous trouvez? Merci!</ForeignLanguage>
+    <SoundFileName>01030808</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Máte hodně rádi Paříž?</HomeLanguage>
+    <ForeignLanguage>Vous aimez bien Paris?</ForeignLanguage>
+    <SoundFileName>01030809</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ano, máme hodně rádi Paříž.</HomeLanguage>
+    <ForeignLanguage>Oui, nous aimons bien Paris.</ForeignLanguage>
+    <SoundFileName>01030810</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>devět</HomeLanguage>
+    <ForeignLanguage>neuf</ForeignLanguage>
+    <SoundFileName>01030900</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>dívám se</HomeLanguage>
+    <ForeignLanguage>je regarde</ForeignLanguage>
+    <SoundFileName>01030901</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>žiji</HomeLanguage>
+    <ForeignLanguage>j'habite</ForeignLanguage>
+    <SoundFileName>01030902</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>díváš se</HomeLanguage>
+    <ForeignLanguage>tu regardes</ForeignLanguage>
+    <SoundFileName>01030903</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>zpíváme</HomeLanguage>
+    <ForeignLanguage>nous chantons</ForeignLanguage>
+    <SoundFileName>01030904</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>posloucháme</HomeLanguage>
+    <ForeignLanguage>nous écoutons</ForeignLanguage>
+    <SoundFileName>01030905</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>navštěvujete</HomeLanguage>
+    <ForeignLanguage>vous visitez</ForeignLanguage>
+    <SoundFileName>01030906</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>mluvíte</HomeLanguage>
+    <ForeignLanguage>vous parlez</ForeignLanguage>
+    <SoundFileName>01030907</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Žijeme támhle.</HomeLanguage>
+    <ForeignLanguage>Nous habitons là-bas.</ForeignLanguage>
+    <SoundFileName>01030908</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Zůstávám zde.</HomeLanguage>
+    <ForeignLanguage>Je reste ici.</ForeignLanguage>
+    <SoundFileName>01030909</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Tančíte?</HomeLanguage>
+    <ForeignLanguage>Vous dansez?</ForeignLanguage>
+    <SoundFileName>01030910</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Díváš se na Ludvíka.</HomeLanguage>
+    <ForeignLanguage>Tu regardes Louis.</ForeignLanguage>
+    <SoundFileName>01030911</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nežijeme támhle.</HomeLanguage>
+    <ForeignLanguage>Nous n'habitons pas là-bas.</ForeignLanguage>
+    <SoundFileName>01030912</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezůstávám zde.</HomeLanguage>
+    <ForeignLanguage>Je ne reste pas ici.</ForeignLanguage>
+    <SoundFileName>01030913</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Netančíte?</HomeLanguage>
+    <ForeignLanguage>Vous ne dansez pas?</ForeignLanguage>
+    <SoundFileName>01030914</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nedíváš se na Ludvíka.</HomeLanguage>
+    <ForeignLanguage>Tu ne regardes pas Louis.</ForeignLanguage>
+    <SoundFileName>01030915</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Díváme se na Annu.</HomeLanguage>
+    <ForeignLanguage>Nous regardons Anne.</ForeignLanguage>
+    <SoundFileName>01030916</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezpíváte společně.</HomeLanguage>
+    <ForeignLanguage>Vous ne chantez pas ensemble.</ForeignLanguage>
+    <SoundFileName>01030917</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Mluvím italsky a francouzsky.</HomeLanguage>
+    <ForeignLanguage>Je parle italien et français.</ForeignLanguage>
+    <SoundFileName>01030918</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Navštívím Paříž také.</HomeLanguage>
+    <ForeignLanguage>Je visite Paris aussi.</ForeignLanguage>
+    <SoundFileName>01030919</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+</Lesson>
+<Lesson lesson="04">
+  <Sentence>
+    <HomeLanguage>deset</HomeLanguage>
+    <ForeignLanguage>dix</ForeignLanguage>
+    <SoundFileName>01041000</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Anežka a její bratr Filip žijí ve Francii.</HomeLanguage>
+    <ForeignLanguage>Agnès et son frère Philipe habitent en France.</ForeignLanguage>
+    <SoundFileName>01041001</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Žijí spolu</HomeLanguage>
+    <ForeignLanguage>Ils habitent ensemble.</ForeignLanguage>
+    <SoundFileName>01041002</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ona) často cestuje.</HomeLanguage>
+    <ForeignLanguage>Elle voyage souvent.</ForeignLanguage>
+    <SoundFileName>01041003</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(On) také často cestuje.</HomeLanguage>
+    <ForeignLanguage>Il voyage souvent aussi.</ForeignLanguage>
+    <SoundFileName>01041004</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nezůstávají zde často.</HomeLanguage>
+    <ForeignLanguage>Ils ne restent pas souvent ici.</ForeignLanguage>
+    <SoundFileName>01041005</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Někdy cestují spolu.</HomeLanguage>
+    <ForeignLanguage>Ils voyagent parfois ensemble.</ForeignLanguage>
+    <SoundFileName>01041006</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(On) mluví velmi dobře francouzsky, ale nemluví španělsky.</HomeLanguage>
+    <ForeignLanguage>Il parle très bien français, mais il ne parle pas espagnol.</ForeignLanguage>
+    <SoundFileName>01041007</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ona) mluví francouzsky.</HomeLanguage>
+    <ForeignLanguage>Elle parle français.</ForeignLanguage>
+    <SoundFileName>01041008</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Dnes navštíví Paříž. (oni)</HomeLanguage>
+    <ForeignLanguage>Ils visitent Paris aujourd'hui.</ForeignLanguage>
+    <SoundFileName>01041009</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Má ráda Paříž</HomeLanguage>
+    <ForeignLanguage>Elle aime Paris.</ForeignLanguage>
+    <SoundFileName>01041010</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>jedenáct</HomeLanguage>
+    <ForeignLanguage>onze</ForeignLanguage>
+    <SoundFileName>01041100</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Přijedeme!</HomeLanguage>
+    <ForeignLanguage>On arrive!</ForeignLanguage>
+    <SoundFileName>01041101</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Přijedeme zítra.</HomeLanguage>
+    <ForeignLanguage>On arrive demain.</ForeignLanguage>
+    <SoundFileName>01041102</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Přijedeme zítra v deset hodin.</HomeLanguage>
+    <ForeignLanguage>On arrive demain à dix heures.</ForeignLanguage>
+    <SoundFileName>01041103</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Přijedeme zítra v deset hodin ráno.</HomeLanguage>
+    <ForeignLanguage>On arrive demain à dix heures du matin.</ForeignLanguage>
+    <SoundFileName>01041104</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Obědváme společně.</HomeLanguage>
+    <ForeignLanguage>On déjeune ensemble.</ForeignLanguage>
+    <SoundFileName>01041105</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Poobědváme společně v poledne.</HomeLanguage>
+    <ForeignLanguage>On déjeune ensemble à midi.</ForeignLanguage>
+    <SoundFileName>01041106</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Navštívíme Paříž zítra odpoledne.</HomeLanguage>
+    <ForeignLanguage>On visite Paris demain après-midi.</ForeignLanguage>
+    <SoundFileName>01041107</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nenavštívíme Notre-Dame.</HomeLanguage>
+    <ForeignLanguage>On ne visite pas Notre-Dame.</ForeignLanguage>
+    <SoundFileName>01041108</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nemluvíme moc dobře francouzsky.</HomeLanguage>
+    <ForeignLanguage>On ne parle pas très bien français.</ForeignLanguage>
+    <SoundFileName>01041109</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nemluvíme ještě moc dobře.</HomeLanguage>
+    <ForeignLanguage>On ne parle pas encore très bien.</ForeignLanguage>
+    <SoundFileName>01041110</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>dvanáct</HomeLanguage>
+    <ForeignLanguage>douze</ForeignLanguage>
+    <SoundFileName>01041200</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(On) mluví francouzsky.</HomeLanguage>
+    <ForeignLanguage>Il parle français.</ForeignLanguage>
+    <SoundFileName>01041201</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ony) navštíví Nice.</HomeLanguage>
+    <ForeignLanguage>Elles visitent Nice.</ForeignLanguage>
+    <SoundFileName>01041202</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ona) necestuje často.</HomeLanguage>
+    <ForeignLanguage>Elle ne voyage pas souvent.</ForeignLanguage>
+    <SoundFileName>01041203</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) mají rádi Paříž.</HomeLanguage>
+    <ForeignLanguage>Ils aiment Paris.</ForeignLanguage>
+    <SoundFileName>01041204</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) žijí v Paříži.</HomeLanguage>
+    <ForeignLanguage>Ils habitent Paris.</ForeignLanguage>
+    <SoundFileName>01041205</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) nemluví španělsky.</HomeLanguage>
+    <ForeignLanguage>Ils ne parlent pas espagnol.</ForeignLanguage>
+    <SoundFileName>01041206</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ony) přijedou zítra.</HomeLanguage>
+    <ForeignLanguage>Elles arrivent demain.</ForeignLanguage>
+    <SoundFileName>01041207</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) obědvají společně</HomeLanguage>
+    <ForeignLanguage>Ils déjeunent ensemble.</ForeignLanguage>
+    <SoundFileName>01041208</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>třináct</HomeLanguage>
+    <ForeignLanguage>treize</ForeignLanguage>
+    <SoundFileName>01041300</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>jedna</HomeLanguage>
+    <ForeignLanguage>un</ForeignLanguage>
+    <SoundFileName>01041301</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>dvě</HomeLanguage>
+    <ForeignLanguage>deux</ForeignLanguage>
+    <SoundFileName>01041302</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>tři</HomeLanguage>
+    <ForeignLanguage>trois</ForeignLanguage>
+    <SoundFileName>01041303</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>čtyři</HomeLanguage>
+    <ForeignLanguage>quatre</ForeignLanguage>
+    <SoundFileName>01041304</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>pět</HomeLanguage>
+    <ForeignLanguage>cinq</ForeignLanguage>
+    <SoundFileName>01041305</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>šest</HomeLanguage>
+    <ForeignLanguage>six</ForeignLanguage>
+    <SoundFileName>01041306</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>sedm</HomeLanguage>
+    <ForeignLanguage>sept</ForeignLanguage>
+    <SoundFileName>01041307</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>osm</HomeLanguage>
+    <ForeignLanguage>huit</ForeignLanguage>
+    <SoundFileName>01041308</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>devět</HomeLanguage>
+    <ForeignLanguage>neuf</ForeignLanguage>
+    <SoundFileName>01041309</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>deset</HomeLanguage>
+    <ForeignLanguage>dix</ForeignLanguage>
+    <SoundFileName>01041310</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>jedenáct</HomeLanguage>
+    <ForeignLanguage>onze</ForeignLanguage>
+    <SoundFileName>01041311</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>dvanáct</HomeLanguage>
+    <ForeignLanguage>douze</ForeignLanguage>
+    <SoundFileName>01041312</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+</Lesson>
+<Lesson lesson="05">
+  <Sentence>
+    <HomeLanguage>čtrnáct</HomeLanguage>
+    <ForeignLanguage>quatorze</ForeignLanguage>
+    <SoundFileName>01051400</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jedu do Tours.</HomeLanguage>
+    <ForeignLanguage>Je vais à Tours.</ForeignLanguage>
+    <SoundFileName>01051401</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Často jezdím do Tours.</HomeLanguage>
+    <ForeignLanguage>Je vais souvent à Tours.</ForeignLanguage>
+    <SoundFileName>01051402</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jdeš příliš rychle.</HomeLanguage>
+    <ForeignLanguage>Tu vas trop vite.</ForeignLanguage>
+    <SoundFileName>01051403</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(On) nejede do Paříže.</HomeLanguage>
+    <ForeignLanguage>Il ne va pas à Paris.</ForeignLanguage>
+    <SoundFileName>01051404</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) často jezdí do Paříže.</HomeLanguage>
+    <ForeignLanguage>Ils vont souvent à Paris.</ForeignLanguage>
+    <SoundFileName>01051405</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Nejezdíme často do Říma.</HomeLanguage>
+    <ForeignLanguage>On ne va pas souvent à Rome.</ForeignLanguage>
+    <SoundFileName>01051406</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Občas jezdíme do Paříže.</HomeLanguage>
+    <ForeignLanguage>Nous allons parfois à Paris.</ForeignLanguage>
+    <SoundFileName>01051407</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jedete do Říma?</HomeLanguage>
+    <ForeignLanguage>Vous allez à Rome?</ForeignLanguage>
+    <SoundFileName>01051408</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jedete daleko?</HomeLanguage>
+    <ForeignLanguage>Vous allez loin?</ForeignLanguage>
+    <SoundFileName>01051409</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Pan a paní Martinovi nejedou daleko.</HomeLanguage>
+    <ForeignLanguage>M. et Mme Martin ne vont pas loin.</ForeignLanguage>
+    <SoundFileName>01051410</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) jedou do Nice.</HomeLanguage>
+    <ForeignLanguage>Ils vont à Nice.</ForeignLanguage>
+    <SoundFileName>01051411</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Oni) vždy jezdí do Nice.</HomeLanguage>
+    <ForeignLanguage>Ils vont toujours à Nice.</ForeignLanguage>
+    <SoundFileName>01051412</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  
+  <Sentence>
+    <HomeLanguage>patnáct</HomeLanguage>
+    <ForeignLanguage>quinze</ForeignLanguage>
+    <SoundFileName>01051500</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Slečna Jourdan bude pracovat ve Francii.</HomeLanguage>
+    <ForeignLanguage>Mlle Jourdan va travailler en France.</ForeignLanguage>
+    <SoundFileName>01051501</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ona) bude brzy pracovat v Paříži.</HomeLanguage>
+    <ForeignLanguage>Elle va bientôt travqiller à Paris.</ForeignLanguage>
+    <SoundFileName>01051502</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ona) bude pracovat s paní Lenoirovou.</HomeLanguage>
+    <ForeignLanguage>Elle va travailler avec Mme Lenoir.</ForeignLanguage>
+    <SoundFileName>01051503</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ony) budou pracovat spolu.</HomeLanguage>
+    <ForeignLanguage>Elles vont travailler ensemble.</ForeignLanguage>
+    <SoundFileName>01051504</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Budete bydlet v Paříži?</HomeLanguage>
+    <ForeignLanguage>Vous allez habiter à Paris?</ForeignLanguage>
+    <SoundFileName>01051505</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Ano, budu bydlet v Paříži.</HomeLanguage>
+    <ForeignLanguage>Oui, je vais habiter à Paris.</ForeignLanguage>
+    <SoundFileName>01051506</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Budu bydlet na bulváru Saint-Germain s Helenou.</HomeLanguage>
+    <ForeignLanguage>Je vais habiter boulevard Saint-Germain, avec Hélène.</ForeignLanguage>
+    <SoundFileName>01051507</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Budeme spolu mluvit.</HomeLanguage>
+    <ForeignLanguage>Nous allons parler ensemble.</ForeignLanguage>
+    <SoundFileName>01051508</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Budeme spolu mluvit francouzsky.</HomeLanguage>
+    <ForeignLanguage>Nous allons parler français ensemble.</ForeignLanguage>
+    <SoundFileName>01051509</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>V říjnu zůstanu v Paříži.</HomeLanguage>
+    <ForeignLanguage>Je vais rester à Paris en octobre.</ForeignLanguage>
+    <SoundFileName>01051510</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Potom pojedu do Itálie.</HomeLanguage>
+    <ForeignLanguage>Puis je vais aller en Italie.</ForeignLanguage>
+    <SoundFileName>01051511</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>V prosinci zůstanu v Itálii.</HomeLanguage>
+    <ForeignLanguage>Je vais rester en Italie en décembre.</ForeignLanguage>
+    <SoundFileName>01051512</SoundFileName>
+    <Comment>Aller (jít, jet, plout, letět, ...), za kterým následuje sloveso v infinitivu, vyjadřuje buď záměr nebo okamžitou budoucnost.</Comment>
+  </Sentence>
+
+  <Sentence>
+    <HomeLanguage>šestnáct</HomeLanguage>
+    <ForeignLanguage>seize</ForeignLanguage>
+    <SoundFileName>01051600</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jedete daleko.</HomeLanguage>
+    <ForeignLanguage>Vous allez loin.</ForeignLanguage>
+    <SoundFileName>01051601</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jdeš rychle.</HomeLanguage>
+    <ForeignLanguage>Tu vas vite.</ForeignLanguage>
+    <SoundFileName>01051602</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jdu támle.</HomeLanguage>
+    <ForeignLanguage>Je vais là-bas.</ForeignLanguage>
+    <SoundFileName>01051603</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jedeme do Paříže.</HomeLanguage>
+    <ForeignLanguage>Nous allons à Paris.</ForeignLanguage>
+    <SoundFileName>01051604</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Bude mluvit.</HomeLanguage>
+    <ForeignLanguage>Il va parler.</ForeignLanguage>
+    <SoundFileName>01051605</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(Ony) budou poslouchat Ludvíka.</HomeLanguage>
+    <ForeignLanguage>Elles vont écouter Louis.</ForeignLanguage>
+    <SoundFileName>01051606</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Jedu do Tours.</HomeLanguage>
+    <ForeignLanguage>Je vais à Tours</ForeignLanguage>
+    <SoundFileName>01051607</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>(On) cestuje do Španělska.</HomeLanguage>
+    <ForeignLanguage>Il voyage en Espagnol.</ForeignLanguage>
+    <SoundFileName>01051608</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Často jezdí do Německa. (oni)</HomeLanguage>
+    <ForeignLanguage>Ils vont souvent en Allemagne.</ForeignLanguage>
+    <SoundFileName>01051609</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+  <Sentence>
+    <HomeLanguage>Pracujeme v Nice.</HomeLanguage>
+    <ForeignLanguage>Nous travailons à Nice.</ForeignLanguage>
+    <SoundFileName>01051610</SoundFileName>
+    <Comment></Comment>
+  </Sentence>
+</Lesson>
+  <Lesson lesson="06">
+    <Sentence>
+      <HomeLanguage>sedmnáct</HomeLanguage>
+      <ForeignLanguage>dix-sept</ForeignLanguage>
+      <SoundFileName>01061700</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsem Francouz.</HomeLanguage>
+      <ForeignLanguage>Je suis Français.</ForeignLanguage>
+      <SoundFileName>01061701</SoundFileName>
+      <Comment>(m) Français, (ž) Française</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsem Francouzska.</HomeLanguage>
+      <ForeignLanguage>Je suis Française.</ForeignLanguage>
+      <SoundFileName>01061702</SoundFileName>
+      <Comment>(m) Français, (ž) Française</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsi sympatický(á).</HomeLanguage>
+      <ForeignLanguage>Tu es sympathique.</ForeignLanguage>
+      <SoundFileName>01061703</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(On) je inteligentní.</HomeLanguage>
+      <ForeignLanguage>Il est intelligent.</ForeignLanguage>
+      <SoundFileName>01061704</SoundFileName>
+      <Comment>(m) intelligent, (ž) intelligente</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) je inteligentní.</HomeLanguage>
+      <ForeignLanguage>Elle est intelligente.</ForeignLanguage>
+      <SoundFileName>01061705</SoundFileName>
+      <Comment>(m) intelligent, (ž) intelligente</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Nicolas není Angličan.</HomeLanguage>
+      <ForeignLanguage>Nicolas n'est pas Anglais.</ForeignLanguage>
+      <SoundFileName>01061706</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je Ir.</HomeLanguage>
+      <ForeignLanguage>Il est Irlandais.</ForeignLanguage>
+      <SoundFileName>01061707</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je vysoký a plavovlasý.</HomeLanguage>
+      <ForeignLanguage>Il est grand et blond.</ForeignLanguage>
+      <SoundFileName>01061708</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je velmi sympatický.</HomeLanguage>
+      <ForeignLanguage>Il est très sympathique.</ForeignLanguage>
+      <SoundFileName>01061709</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anna je Angličanka.</HomeLanguage>
+      <ForeignLanguage>Anne est Anglaise.</ForeignLanguage>
+      <SoundFileName>01061710</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je velmi pěkná.</HomeLanguage>
+      <ForeignLanguage>Elle est très jolie.</ForeignLanguage>
+      <SoundFileName>01061711</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Není moc vysoká.</HomeLanguage>
+      <ForeignLanguage>Elle n'est pas très grande.</ForeignLanguage>
+      <SoundFileName>01061712</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>osmnáct</HomeLanguage>
+      <ForeignLanguage>dix-huit</ForeignLanguage>
+      <SoundFileName>01061800</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsme Němci.</HomeLanguage>
+      <ForeignLanguage>Nous sommes Allemands.</ForeignLanguage>
+      <SoundFileName>01061801</SoundFileName>
+      <Comment>(m) Allemands, (ž) Allemandes</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsme Němky.</HomeLanguage>
+      <ForeignLanguage>Nous sommes Allemandes.</ForeignLanguage>
+      <SoundFileName>01061802</SoundFileName>
+      <Comment>(m) Allemands, (ž) Allemandes</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jste příliš mladí.</HomeLanguage>
+      <ForeignLanguage>Vous êtes trop jeunes.</ForeignLanguage>
+      <SoundFileName>01061803</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jste spokojení?</HomeLanguage>
+      <ForeignLanguage>Vous êtes contentes?</ForeignLanguage>
+      <SoundFileName>01061804</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Nejsou spokojené?</HomeLanguage>
+      <ForeignLanguage>Elles ne sont pas contentes?</ForeignLanguage>
+      <SoundFileName>01061805</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsou smutné.</HomeLanguage>
+      <ForeignLanguage>Elles sont tristes.</ForeignLanguage>
+      <SoundFileName>01061806</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsou smutní.</HomeLanguage>
+      <ForeignLanguage>Ils sont tristes.</ForeignLanguage>
+      <SoundFileName>01061807</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Filip je milý.</HomeLanguage>
+      <ForeignLanguage>Phillipe est gentil.</ForeignLanguage>
+      <SoundFileName>01061808</SoundFileName>
+      <Comment>(m) gentil, (ž) gentille</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anna je také milá.</HomeLanguage>
+      <ForeignLanguage>Anne aussi est gentille.</ForeignLanguage>
+      <SoundFileName>01061809</SoundFileName>
+      <Comment>(m) gentil, (ž) gentille</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anna a Filip jsou milí.</HomeLanguage>
+      <ForeignLanguage>Anne et Phillipe sont gentils.</ForeignLanguage>
+      <SoundFileName>01061810</SoundFileName>
+      <Comment>(m) gentil, (ž) gentille, (pl) gentils</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Nesjsou spokojení.</HomeLanguage>
+      <ForeignLanguage>Ils ne sont pas contents.</ForeignLanguage>
+      <SoundFileName>01061811</SoundFileName>
+      <Comment>(sg) contents, (pl) contentes</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Nejsou spokojené.</HomeLanguage>
+      <ForeignLanguage>Elles ne sont pas contentes.</ForeignLanguage>
+      <SoundFileName>01061812</SoundFileName>
+      <Comment>(sg) contents, (pl) contentes</Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>devatenáct</HomeLanguage>
+      <ForeignLanguage>dix-neuf</ForeignLanguage>
+      <SoundFileName>01061900</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ony) jsou plavovlasé.</HomeLanguage>
+      <ForeignLanguage>Elles sont blondes.</ForeignLanguage>
+      <SoundFileName>01061901</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsem blízko Frederika.</HomeLanguage>
+      <ForeignLanguage>Je suit près de Frédéric.</ForeignLanguage>
+      <SoundFileName>01061902</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) je malá.</HomeLanguage>
+      <ForeignLanguage>Elle est petite.</ForeignLanguage>
+      <SoundFileName>01061903</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jste velmi simpatičtí.</HomeLanguage>
+      <ForeignLanguage>Vous êtes très sympathique.</ForeignLanguage>
+      <SoundFileName>01061904</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsme v Paříži.</HomeLanguage>
+      <ForeignLanguage>Nous sommes à Paris.</ForeignLanguage>
+      <SoundFileName>01061905</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Oni) jsou před Notre-Dame.</HomeLanguage>
+      <ForeignLanguage>Ils sont devant Notre-Dame.</ForeignLanguage>
+      <SoundFileName>01061906</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsem spokojený.</HomeLanguage>
+      <ForeignLanguage>Je suis content.</ForeignLanguage>
+      <SoundFileName>01061907</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsi mladý.</HomeLanguage>
+      <ForeignLanguage>Tu es jeune.</ForeignLanguage>
+      <SoundFileName>01061908</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(On) je sympatický.</HomeLanguage>
+      <ForeignLanguage>Il est sympathique.</ForeignLanguage>
+      <SoundFileName>01061909</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) je mladá.</HomeLanguage>
+      <ForeignLanguage>Elle est jeune.</ForeignLanguage>
+      <SoundFileName>01061910</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsme spokojení.</HomeLanguage>
+      <ForeignLanguage>Nous sommes contents.</ForeignLanguage>
+      <SoundFileName>01061911</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jste smutní.</HomeLanguage>
+      <ForeignLanguage>Vous êtes tristes.</ForeignLanguage>
+      <SoundFileName>01061912</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Oni) jsou spokojení.</HomeLanguage>
+      <ForeignLanguage>Ils sont contents.</ForeignLanguage>
+      <SoundFileName>01061913</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ony) jsou pěkné.</HomeLanguage>
+      <ForeignLanguage>Elles sont jolies.</ForeignLanguage>
+      <SoundFileName>01061914</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet</HomeLanguage>
+      <ForeignLanguage>vingt</ForeignLanguage>
+      <SoundFileName>01062000</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>třicet</HomeLanguage>
+      <ForeignLanguage>trente</ForeignLanguage>
+      <SoundFileName>01062001</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>čtyřicet</HomeLanguage>
+      <ForeignLanguage>quarante</ForeignLanguage>
+      <SoundFileName>01062002</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>padesát</HomeLanguage>
+      <ForeignLanguage>cinquante</ForeignLanguage>
+      <SoundFileName>01062003</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>šedesát</HomeLanguage>
+      <ForeignLanguage>soixante</ForeignLanguage>
+      <SoundFileName>01062004</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>sedmdesát</HomeLanguage>
+      <ForeignLanguage>soixante-dix</ForeignLanguage>
+      <SoundFileName>01062005</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>osmdesát</HomeLanguage>
+      <ForeignLanguage>quatre-vingts</ForeignLanguage>
+      <SoundFileName>01062006</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>devadesát</HomeLanguage>
+      <ForeignLanguage>quatre-vingt-dix</ForeignLanguage>
+      <SoundFileName>01062007</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>sto</HomeLanguage>
+      <ForeignLanguage>cent</ForeignLanguage>
+      <SoundFileName>01062008</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>tisíc</HomeLanguage>
+      <ForeignLanguage>mille</ForeignLanguage>
+      <SoundFileName>01062009</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacetjedna</HomeLanguage>
+      <ForeignLanguage>vingt et un</ForeignLanguage>
+      <SoundFileName>01062100</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>prázdniny</HomeLanguage>
+      <ForeignLanguage>vacances</ForeignLanguage>
+      <SoundFileName>01062101</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Haló?</HomeLanguage>
+      <ForeignLanguage>Allô?</ForeignLanguage>
+      <SoundFileName>01062102</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anna? Tady Nicolas</HomeLanguage>
+      <ForeignLanguage>Anne? Ici Nicolas.</ForeignLanguage>
+      <SoundFileName>01062103</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ahoj, ty jsi v Paříži?</HomeLanguage>
+      <ForeignLanguage>Bonjour, tu es à Paris?</ForeignLanguage>
+      <SoundFileName>01062104</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ne, nejsem v Paříži, jsem v Savojsku.</HomeLanguage>
+      <ForeignLanguage>Non, je ne suis pas à Paris, je suis en Savoie.</ForeignLanguage>
+      <SoundFileName>01062105</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je tam také Marek?</HomeLanguage>
+      <ForeignLanguage>Marc est là aussi?</ForeignLanguage>
+      <SoundFileName>01062106</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano. Jsme na prázdninách, ale bohužel zítra odjíždíme. Přijedeme v devět hodin.</HomeLanguage>
+      <ForeignLanguage>Oui. Nous sommes en vacances, mais malheureusement on va partir demain. On arrive à neuf heures.</ForeignLanguage>
+      <SoundFileName>01062107</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>V devět hodin ráno nebo v devět hodin večer.</HomeLanguage>
+      <ForeignLanguage>Neuf heures du matin ou neuf heures du soir?</ForeignLanguage>
+      <SoundFileName>01062108</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>V devět hodin večer.</HomeLanguage>
+      <ForeignLanguage>Neuf heures du soir.</ForeignLanguage>
+      <SoundFileName>01062109</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>A kam přijedete?</HomeLanguage>
+      <ForeignLanguage>Et vous arivez où?</ForeignLanguage>
+      <SoundFileName>01062110</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Přijedeme na Lyonské nádraží.</HomeLanguage>
+      <ForeignLanguage>On arrive Gare de Lyon.</ForeignLanguage>
+      <SoundFileName>01062111</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Výborně, přijďte na večeři, zvu vás.</HomeLanguage>
+      <ForeignLanguage>Très bien, venez dîner, je vous invite.</ForeignLanguage>
+      <SoundFileName>01062112</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsi velmi milá, děkuji. Nashledanou zítra.</HomeLanguage>
+      <ForeignLanguage>Tu es très gentile, merci. A demain.</ForeignLanguage>
+      <SoundFileName>01062113</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+  </Lesson>
+  <Lesson lesson="07">
+    
+    <Sentence>
+      <HomeLanguage>dvacetdva</HomeLanguage>
+      <ForeignLanguage>vingt-deux</ForeignLanguage>
+      <SoundFileName>01072200</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) jí croissant.</HomeLanguage>
+      <ForeignLanguage>Elle mange un croissant.</ForeignLanguage>
+      <SoundFileName>01072201</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(On) jí teplý croissant.</HomeLanguage>
+      <ForeignLanguage>Il mange un croissant chaud.</ForeignLanguage>
+      <SoundFileName>01072202</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(On) jí často v devět hodin teplý croissant.</HomeLanguage>
+      <ForeignLanguage>Il mange souvent un croissant chaud à neuf heures.</ForeignLanguage>
+      <SoundFileName>01072203</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Připravujete studené jídlo?</HomeLanguage>
+      <ForeignLanguage>Vous préparez un repas froid?</ForeignLanguage>
+      <SoundFileName>01072204</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, připravujeme studené jídlo.</HomeLanguage>
+      <ForeignLanguage>Oui, nous préparons un repas froid.</ForeignLanguage>
+      <SoundFileName>01072205</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Oni) si koupí bagetu.</HomeLanguage>
+      <ForeignLanguage>Ils vont acheter une baguette.</ForeignLanguage>
+      <SoundFileName>01072206</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Kup na zítra salát a láhev vína.</HomeLanguage>
+      <ForeignLanguage>Achète une salade et une bouteille de vin pour demain!</ForeignLanguage>
+      <SoundFileName>01072207</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Půjdeme v sobotu do řecké restaurace?</HomeLanguage>
+      <ForeignLanguage>Nous allons dans un restaurant grec samedi?</ForeignLanguage>
+      <SoundFileName>01072208</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ne, půjdeme do italské restaurace.</HomeLanguage>
+      <ForeignLanguage>Non, nous allons dans un restaurant italien.</ForeignLanguage>
+      <SoundFileName>01072209</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jeden croissant, prosím!</HomeLanguage>
+      <ForeignLanguage>Un croissant s'il vous plaît!</ForeignLanguage>
+      <SoundFileName>01072210</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) chce croissant.</HomeLanguage>
+      <ForeignLanguage>Elle demande un croissant.</ForeignLanguage>
+      <SoundFileName>01072211</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) chce croissant a bagetu.</HomeLanguage>
+      <ForeignLanguage>Elle demande un croissant et un baguette.</ForeignLanguage>
+      <SoundFileName>01072212</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet tři</HomeLanguage>
+      <ForeignLanguage>vingt-trois</ForeignLanguage>
+      <SoundFileName>01072300</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Tady jsou fotografie Anny, anglické studentky.</HomeLanguage>
+      <ForeignLanguage>Voici des photos d'Anne, d'une étudiante anglaise.</ForeignLanguage>
+      <SoundFileName>01072301</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Tady mluví se zahraničními studenty.</HomeLanguage>
+      <ForeignLanguage>Ici, elle parle avec des étudiants étrangers.</ForeignLanguage>
+      <SoundFileName>01072302</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Tam (ona) navštíví katedrálu s francouzskými přáteli.</HomeLanguage>
+      <ForeignLanguage>Là elle visite une cathédrale avec des amis français.</ForeignLanguage>
+      <SoundFileName>01072303</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) bydlí s přáteli.</HomeLanguage>
+      <ForeignLanguage>Elle habite avec des amis.</ForeignLanguage>
+      <SoundFileName>01072304</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) se připravuje na zkoušky.</HomeLanguage>
+      <ForeignLanguage>Elle prépare des examens.</ForeignLanguage>
+      <SoundFileName>01072305</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Ona) nakoupí francouzské knihy a časopisy.</HomeLanguage>
+      <ForeignLanguage>Elle va acheter des livres et des magazines français.</ForeignLanguage>
+      <SoundFileName>01072306</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Petr a Jan jsou angličtí novináři.</HomeLanguage>
+      <ForeignLanguage>Pierre et Jean sont des journalistes anglais.</ForeignLanguage>
+      <SoundFileName>01072307</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Oni) mluví s umělci.</HomeLanguage>
+      <ForeignLanguage>Ils parlent avec des artistes.</ForeignLanguage>
+      <SoundFileName>01072308</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Oni) se stkávají s francouzskými novináři.</HomeLanguage>
+      <ForeignLanguage>Ils rencontrent des journalistes français.</ForeignLanguage>
+      <SoundFileName>01072309</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(Oni) se také setkávají se slavnými spisovateli.</HomeLanguage>
+      <ForeignLanguage>Ils rencontrent aussi des écrivains célèbres.</ForeignLanguage>
+      <SoundFileName>01072310</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Tady se setkáváme často s přáteli.</HomeLanguage>
+      <ForeignLanguage>Nous rencontrons souvent des amis ici.</ForeignLanguage>
+      <SoundFileName>01072311</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Často chodíme do cizokrajných restaurací.</HomeLanguage>
+      <ForeignLanguage>Nous allons souvent dans des restaurants étrangers.</ForeignLanguage>
+      <SoundFileName>01072312</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet čtyři</HomeLanguage>
+      <ForeignLanguage>vingt-quatre</ForeignLanguage>
+      <SoundFileName>01072400</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Cizí země.</HomeLanguage>
+      <ForeignLanguage>Un pays étranger.</ForeignLanguage>
+      <SoundFileName>01072401</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Francouzská přítelkyně.</HomeLanguage>
+      <ForeignLanguage>Une amie française.</ForeignLanguage>
+      <SoundFileName>01072402</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Italská přítelkyně.</HomeLanguage>
+      <ForeignLanguage>Une amie italienne.</ForeignLanguage>
+      <SoundFileName>01072403</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Slavná fotografie.</HomeLanguage>
+      <ForeignLanguage>Une photo célèbre.</ForeignLanguage>
+      <SoundFileName>01072404</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Slavný portrét.</HomeLanguage>
+      <ForeignLanguage>Un portrait célèbre.</ForeignLanguage>
+      <SoundFileName>01072405</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Inteligentní studenti.</HomeLanguage>
+      <ForeignLanguage>Des étudiants intelligents.</ForeignLanguage>
+      <SoundFileName>01072406</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Francouzské knihy.</HomeLanguage>
+      <ForeignLanguage>Des livres français.</ForeignLanguage>
+      <SoundFileName>01072407</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Zahraniční spisovatelé.</HomeLanguage>
+      <ForeignLanguage>Des écrivaints étrangers.</ForeignLanguage>
+      <SoundFileName>01072408</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Sympatické restaurace.</HomeLanguage>
+      <ForeignLanguage>Des restaurants sympathiques.</ForeignLanguage>
+      <SoundFileName>01072409</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Studená jídla.</HomeLanguage>
+      <ForeignLanguage>Des repas froids.</ForeignLanguage>
+      <SoundFileName>01072410</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Francouzský přítel.</HomeLanguage>
+      <ForeignLanguage>Un ami français.</ForeignLanguage>
+      <SoundFileName>01072411</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Italská novinářka.</HomeLanguage>
+      <ForeignLanguage>Une journaliste italienne.</ForeignLanguage>
+      <SoundFileName>01072412</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Zahraniční novinář.</HomeLanguage>
+      <ForeignLanguage>Un journaliste étranger.</ForeignLanguage>
+      <SoundFileName>01072413</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet pět</HomeLanguage>
+      <ForeignLanguage>vingt-cinq</ForeignLanguage>
+      <SoundFileName>01072500</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Příjemná restaurace</HomeLanguage>
+      <ForeignLanguage>Un restaurant sympathique</ForeignLanguage>
+      <SoundFileName>01072501</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Dobrý večer paní.</HomeLanguage>
+      <ForeignLanguage>Bonsoir madame.</ForeignLanguage>
+      <SoundFileName>01072502</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Dobrý večer pane.</HomeLanguage>
+      <ForeignLanguage>Bonsoir Monsieur.</ForeignLanguage>
+      <SoundFileName>01072503</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Stůl pro dva?</HomeLanguage>
+      <ForeignLanguage>Une table pour deux?</ForeignLanguage>
+      <SoundFileName>01072504</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, blízko okna, prosím.</HomeLanguage>
+      <ForeignLanguage>Oui, près d'une fenêtre s'ill vous plaît.</ForeignLanguage>
+      <SoundFileName>01072505</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Tudy. Tady je jídelní lístek.</HomeLanguage>
+      <ForeignLanguage>Par ici. Voici un menu.</ForeignLanguage>
+      <SoundFileName>01072506</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jako předkrm si dám salát a jako hlavní jídlo krvavý steak se zelenými fazolkami.</HomeLanguage>
+      <ForeignLanguage>Je vais prendre une salade comme hors d'ceuvre et comme plat principal une entrecôte saignante avec des haricots verts.</ForeignLanguage>
+      <SoundFileName>01072507</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>A pro Vás, pane?</HomeLanguage>
+      <ForeignLanguage>Et pour Monsieur?</ForeignLanguage>
+      <SoundFileName>01072508</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Pórek s kyselým dresinkem a dobře propečený obalovaný řízek.</HomeLanguage>
+      <ForeignLanguage>Des poireaux vinaigrette et une escalope panée bien cuite.</ForeignLanguage>
+      <SoundFileName>01072509</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>S hranolky?</HomeLanguage>
+      <ForeignLanguage>Avec des frites?</ForeignLanguage>
+      <SoundFileName>01072510</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ne, raději si dám těstoviny.</HomeLanguage>
+      <ForeignLanguage>Non, je préfère des pâtes.</ForeignLanguage>
+      <SoundFileName>01072511</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>A jako víno si dáme Bordeaux.</HomeLanguage>
+      <ForeignLanguage>Et comme vin, on va prendre un Bordeaux.</ForeignLanguage>
+      <SoundFileName>01072512</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Dobrý nápad.</HomeLanguage>
+      <ForeignLanguage>Bon idée!</ForeignLanguage>
+      <SoundFileName>01072513</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>A jako moučník? Karamelový krém? Koláč?</HomeLanguage>
+      <ForeignLanguage>Et comme desert? Un crème caramélée? Un gâteau?</ForeignLanguage>
+      <SoundFileName>01072514</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Raději zmrzlinu.</HomeLanguage>
+      <ForeignLanguage>Je préfère un glace.</ForeignLanguage>
+      <SoundFileName>01072515</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet šest</HomeLanguage>
+      <ForeignLanguage>vingt-six</ForeignLanguage>
+      <SoundFileName>01072600</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>kde?, kam?</HomeLanguage>
+      <ForeignLanguage>où?</ForeignLanguage>
+      <SoundFileName>01072601</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>tudy</HomeLanguage>
+      <ForeignLanguage>par ici</ForeignLanguage>
+      <SoundFileName>01072602</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>v, (do)</HomeLanguage>
+      <ForeignLanguage>dans</ForeignLanguage>
+      <SoundFileName>01072603</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>před (místně)</HomeLanguage>
+      <ForeignLanguage>devant</ForeignLanguage>
+      <SoundFileName>01072604</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>za (místně)</HomeLanguage>
+      <ForeignLanguage>derrière</ForeignLanguage>
+      <SoundFileName>01072605</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>mezi (dvěma)</HomeLanguage>
+      <ForeignLanguage>entre</ForeignLanguage>
+      <SoundFileName>01072606</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>mezi (mnoha)</HomeLanguage>
+      <ForeignLanguage>parmi</ForeignLanguage>
+      <SoundFileName>01072607</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>pod</HomeLanguage>
+      <ForeignLanguage>sous</ForeignLanguage>
+      <SoundFileName>01072608</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>dole</HomeLanguage>
+      <ForeignLanguage>dessous</ForeignLanguage>
+      <SoundFileName>01072609</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>nahoře</HomeLanguage>
+      <ForeignLanguage>dessus</ForeignLanguage>
+      <SoundFileName>01072610</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>blízko</HomeLanguage>
+      <ForeignLanguage>près de</ForeignLanguage>
+      <SoundFileName>01072611</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>blízko Ludvíka</HomeLanguage>
+      <ForeignLanguage>près de Louis</ForeignLanguage>
+      <SoundFileName>01072612</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+  </Lesson>>
+
+  <Lesson lesson="08">
+
+    <Sentence>
+      <HomeLanguage>dvacet sedm</HomeLanguage>
+      <ForeignLanguage>vingt-sept</ForeignLanguage>
+      <SoundFileName>01082700</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je Anna.</HomeLanguage>
+      <ForeignLanguage>C'est Anne.</ForeignLanguage>
+      <SoundFileName>01082701</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to přítelkyně.</HomeLanguage>
+      <ForeignLanguage>C'est une amie.</ForeignLanguage>
+      <SoundFileName>01082702</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je Petr.</HomeLanguage>
+      <ForeignLanguage>C'est Pierre.</ForeignLanguage>
+      <SoundFileName>01082703</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je soused.</HomeLanguage>
+      <ForeignLanguage>C'est un voisin.</ForeignLanguage>
+      <SoundFileName>01082704</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to byt k pronajmutí.</HomeLanguage>
+      <ForeignLanguage>C'est un appartement à louer.</ForeignLanguage>
+      <SoundFileName>01082705</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to malý byt ve velké budově.</HomeLanguage>
+      <ForeignLanguage>C'est un petit appartement dans un grand immeuble.</ForeignLanguage>
+      <SoundFileName>01082706</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to pohodlný dům.</HomeLanguage>
+      <ForeignLanguage>C'est un maison confortable.</ForeignLanguage>
+      <SoundFileName>01082707</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Není to příliš moderní dům.</HomeLanguage>
+      <ForeignLanguage>Ce n'est pas une maison trop moderne.</ForeignLanguage>
+      <SoundFileName>01082708</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to daleko?</HomeLanguage>
+      <ForeignLanguage>C'est loin?</ForeignLanguage>
+      <SoundFileName>01082709</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ne, není to daleko.</HomeLanguage>
+      <ForeignLanguage>Non, ce n'est pas loin.</ForeignLanguage>
+      <SoundFileName>01082710</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To není drahé.</HomeLanguage>
+      <ForeignLanguage>Ce n'est pas cher.</ForeignLanguage>
+      <SoundFileName>01082711</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To opravdu není drahé.</HomeLanguage>
+      <ForeignLanguage>Ce n'est pas vraiment cher!</ForeignLanguage>
+      <SoundFileName>01082712</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet osm</HomeLanguage>
+      <ForeignLanguage>vingt-huit</ForeignLanguage>
+      <SoundFileName>01082800</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou drahé budovy.</HomeLanguage>
+      <ForeignLanguage>Ce sont des immeubles chers.</ForeignLanguage>
+      <SoundFileName>01082801</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou velmi pohodlné byty.</HomeLanguage>
+      <ForeignLanguage>Ce sont des appartements très confortables.</ForeignLanguage>
+      <SoundFileName>01082802</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou tmavé pokoje.</HomeLanguage>
+      <ForeignLanguage>Ce sont des pièces sombres.</ForeignLanguage>
+      <SoundFileName>01082803</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To nejsou velké pokoje.</HomeLanguage>
+      <ForeignLanguage>Ce ne sont pas de grandes pièces.</ForeignLanguage>
+      <SoundFileName>01082804</SoundFileName>
+      <Comment>des se mění na de, jestliže je ve větě přídavné jméno před podstatným jménem</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou malé pokoje.</HomeLanguage>
+      <ForeignLanguage>Ce sont de petites chambres.</ForeignLanguage>
+      <SoundFileName>01082805</SoundFileName>
+      <Comment>des se mění na de, jestliže je ve větě přídavné jméno před podstatným jménem</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To nejsou pohodlné židle.</HomeLanguage>
+      <ForeignLanguage>Ce ne sont pas des chaises confortables.</ForeignLanguage>
+      <SoundFileName>01082806</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou pěkné lampy.</HomeLanguage>
+      <ForeignLanguage>Ce sont de jolies lampes.</ForeignLanguage>
+      <SoundFileName>01082807</SoundFileName>
+      <Comment>des se mění na de, jestliže je ve větě přídavné jméno před podstatným jménem</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou velká okna.</HomeLanguage>
+      <ForeignLanguage>Ce sont de grandes fenêtres.</ForeignLanguage>
+      <SoundFileName>01082808</SoundFileName>
+      <Comment>des se mění na de, jestliže je ve větě přídavné jméno před podstatným jménem</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou krásné záclony.</HomeLanguage>
+      <ForeignLanguage>Ce sont de beaux rideaux.</ForeignLanguage>
+      <SoundFileName>01082809</SoundFileName>
+      <Comment>des se mění na de, jestliže je ve větě přídavné jméno před podstatným jménem</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To nejsou levné koberce.</HomeLanguage>
+      <ForeignLanguage>Ce ne sont pas des tapis bon marchè!</ForeignLanguage>
+      <SoundFileName>01082810</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To nejsou krásné koberce.</HomeLanguage>
+      <ForeignLanguage>Ce ne sont pas de beaux tapis.</ForeignLanguage>
+      <SoundFileName>01082811</SoundFileName>
+      <Comment>des se mění na de, jestliže je ve větě přídavné jméno před podstatným jménem</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou moderní budovy.</HomeLanguage>
+      <ForeignLanguage>Ce sont des immeubles modernes.</ForeignLanguage>
+      <SoundFileName>01082812</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>dvacet devět</HomeLanguage>
+      <ForeignLanguage>vingt-neuf</ForeignLanguage>
+      <SoundFileName>01082900</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je moderní lampa.</HomeLanguage>
+      <ForeignLanguage>C'est une lampe moderne.</ForeignLanguage>
+      <SoundFileName>01082901</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je pěkný pokoj.</HomeLanguage>
+      <ForeignLanguage>C'est une jolie chambre.</ForeignLanguage>
+      <SoundFileName>01082902</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je špatná restaurace.</HomeLanguage>
+      <ForeignLanguage>C'est un mauvais restaurant.</ForeignLanguage>
+      <SoundFileName>01082903</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je studené jídlo.</HomeLanguage>
+      <ForeignLanguage>C'est un repas froid.</ForeignLanguage>
+      <SoundFileName>01082904</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je malý dům.</HomeLanguage>
+      <ForeignLanguage>C'est une petite maison.</ForeignLanguage>
+      <SoundFileName>01082905</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou dobré láhve.</HomeLanguage>
+      <ForeignLanguage>Ce sont de bonnes bouteilles.</ForeignLanguage>
+      <SoundFileName>01082906</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou pohodlné byty.</HomeLanguage>
+      <ForeignLanguage>Ce sont des appartements confortables.</ForeignLanguage>
+      <SoundFileName>01082907</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To jsou mladí studenti.</HomeLanguage>
+      <ForeignLanguage>Ce sont de jeunes étudiants.</ForeignLanguage>
+      <SoundFileName>01082908</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet</HomeLanguage>
+      <ForeignLanguage>trente</ForeignLanguage>
+      <SoundFileName>01083000</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>dobrý</HomeLanguage>
+      <ForeignLanguage>bon</ForeignLanguage>
+      <SoundFileName>01083001</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>dobrá</HomeLanguage>
+      <ForeignLanguage>bonne</ForeignLanguage>
+      <SoundFileName>01083002</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>drahý</HomeLanguage>
+      <ForeignLanguage>cher</ForeignLanguage>
+      <SoundFileName>01083003</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>drahá</HomeLanguage>
+      <ForeignLanguage>chère</ForeignLanguage>
+      <SoundFileName>01083004</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>vysoký/velký</HomeLanguage>
+      <ForeignLanguage>grand</ForeignLanguage>
+      <SoundFileName>01083005</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>vysoká/velká</HomeLanguage>
+      <ForeignLanguage>grande</ForeignLanguage>
+      <SoundFileName>01083006</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>mladý</HomeLanguage>
+      <ForeignLanguage>jeune</ForeignLanguage>
+      <SoundFileName>01083007</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>mladá</HomeLanguage>
+      <ForeignLanguage>jeune</ForeignLanguage>
+      <SoundFileName>01083008</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>pěkný</HomeLanguage>
+      <ForeignLanguage>joli</ForeignLanguage>
+      <SoundFileName>01083009</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>pěkná</HomeLanguage>
+      <ForeignLanguage>jolie</ForeignLanguage>
+      <SoundFileName>01083010</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>dlouhý</HomeLanguage>
+      <ForeignLanguage>long</ForeignLanguage>
+      <SoundFileName>01083011</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>dlouhá</HomeLanguage>
+      <ForeignLanguage>longue</ForeignLanguage>
+      <SoundFileName>01083012</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>špatný</HomeLanguage>
+      <ForeignLanguage>mauvais</ForeignLanguage>
+      <SoundFileName>01083013</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>špatná</HomeLanguage>
+      <ForeignLanguage>mauvaise</ForeignLanguage>
+      <SoundFileName>01083014</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>malý</HomeLanguage>
+      <ForeignLanguage>petit</ForeignLanguage>
+      <SoundFileName>01083015</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>malá</HomeLanguage>
+      <ForeignLanguage>petite</ForeignLanguage>
+      <SoundFileName>01083016</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>krásný</HomeLanguage>
+      <ForeignLanguage>beau</ForeignLanguage>
+      <SoundFileName>01083017</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>krásná</HomeLanguage>
+      <ForeignLanguage>belle</ForeignLanguage>
+      <SoundFileName>01083018</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>starý</HomeLanguage>
+      <ForeignLanguage>vieux</ForeignLanguage>
+      <SoundFileName>01083019</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>stará</HomeLanguage>
+      <ForeignLanguage>vieille</ForeignLanguage>
+      <SoundFileName>01083020</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>nový</HomeLanguage>
+      <ForeignLanguage>nouveau</ForeignLanguage>
+      <SoundFileName>01083021</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>nová</HomeLanguage>
+      <ForeignLanguage>nouvelle</ForeignLanguage>
+      <SoundFileName>01083022</SoundFileName>
+      <Comment>Přídavné jméno umísťované zpravidla před podstatné jméno.</Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet jedna</HomeLanguage>
+      <ForeignLanguage>trente et un</ForeignLanguage>
+      <SoundFileName>01083100</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Kolegyně v práci.</HomeLanguage>
+      <ForeignLanguage>Une collègue de travail.</ForeignLanguage>
+      <SoundFileName>01083101</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Podívej se, Bastiene, tamhle u schodů.</HomeLanguage>
+      <ForeignLanguage>Bastien, regarde là-bas près des escaliers</ForeignLanguage>
+      <SoundFileName>01083102</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je nová kolegyně.</HomeLanguage>
+      <ForeignLanguage>C'est une nouvelle collègue.</ForeignLanguage>
+      <SoundFileName>01083103</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je Italka, jmenuje se Silvia.</HomeLanguage>
+      <ForeignLanguage>Elle italienne, elle s’appelle Silvia.</ForeignLanguage>
+      <SoundFileName>01083104</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>To je nádherná dívka!</HomeLanguage>
+      <ForeignLanguage>C’est une fille superbe!</ForeignLanguage>
+      <SoundFileName>01083105</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to velmi pěkná dívka.</HomeLanguage>
+      <ForeignLanguage>C’est une fille très jolie.</ForeignLanguage>
+      <SoundFileName>01083106</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je opravdu sympatická.</HomeLanguage>
+      <ForeignLanguage>Elle est vraiment sympa.</ForeignLanguage>
+      <SoundFileName>01083107</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Kde bydlí?</HomeLanguage>
+      <ForeignLanguage>Elle habite où?</ForeignLanguage>
+      <SoundFileName>01083108</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>V malém bytě ve staré budově v centru města.</HomeLanguage>
+      <ForeignLanguage>Dans un petit appartement dans un immeuble ancien du centre-ville.</ForeignLanguage>
+      <SoundFileName>01083109</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Je to živá čtvrť, ale není moc hlučná.</HomeLanguage>
+      <ForeignLanguage>C’est un quartier très vivant mais ce n’est pas très bruyant.</ForeignLanguage>
+      <SoundFileName>01083110</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Petr a Marek bydlí také v centru města.</HomeLanguage>
+      <ForeignLanguage>Pierre at Marc habitent aussi le centre-ville.</ForeignLanguage>
+      <SoundFileName>01083111</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Petr a Marek?</HomeLanguage>
+      <ForeignLanguage>Pierre et Marc?</ForeignLanguage>
+      <SoundFileName>01083112</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, to jsou staří kamarádi.</HomeLanguage>
+      <ForeignLanguage>Oui, ce sont de vieux copains.</ForeignLanguage>
+      <SoundFileName>01083113</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Pracují pro počítačovou firmu.</HomeLanguage>
+      <ForeignLanguage>Ils travaillent dans une boîte d’informatique.</ForeignLanguage>
+      <SoundFileName>01083114</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet dva</HomeLanguage>
+      <ForeignLanguage>trente-deux</ForeignLanguage>
+      <SoundFileName>01083200</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>zůstaňte zde</HomeLanguage>
+      <ForeignLanguage>restez ici</ForeignLanguage>
+      <SoundFileName>01083201</SoundFileName>
+      <Comment>Poslední souhláska je vyslovována, když následující slovo začíná samohláskou.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>mluvme spolu</HomeLanguage>
+      <ForeignLanguage>parlons ensemble</ForeignLanguage>
+      <SoundFileName>01083202</SoundFileName>
+      <Comment>Poslední souhláska je vyslovována, když následující slovo začíná samohláskou.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>ne zde</HomeLanguage>
+      <ForeignLanguage>pas ici</ForeignLanguage>
+      <SoundFileName>01083203</SoundFileName>
+      <Comment>Poslední souhláska je vyslovována, když následující slovo začíná samohláskou.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>ještě ne</HomeLanguage>
+      <ForeignLanguage>pas encore</ForeignLanguage>
+      <SoundFileName>01083204</SoundFileName>
+      <Comment>Poslední souhláska je vyslovována, když následující slovo začíná samohláskou.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>s Annou</HomeLanguage>
+      <ForeignLanguage>avec Anne</ForeignLanguage>
+      <SoundFileName>01083205</SoundFileName>
+      <Comment>Poslední souhláska je vyslovována, když následující slovo začíná samohláskou.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>zůstaň vedle</HomeLanguage>
+      <ForeignLanguage>reste à côté</ForeignLanguage>
+      <SoundFileName>01083206</SoundFileName>
+      <Comment>Jestliže slovo končí na e, tak se e nevyslovuje.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>zůstaň zde</HomeLanguage>
+      <ForeignLanguage>reste ici</ForeignLanguage>
+      <SoundFileName>01083207</SoundFileName>
+      <Comment>Jestliže slovo končí na e, tak se e nevyslovuje.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anna a Ludvík</HomeLanguage>
+      <ForeignLanguage>Anne et Louis</ForeignLanguage>
+      <SoundFileName>01083208</SoundFileName>
+      <Comment>Jestliže slovo končí na e, tak se e nevyslovuje.</Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anna nebo Ludvík</HomeLanguage>
+      <ForeignLanguage>Anne ou Louis</ForeignLanguage>
+      <SoundFileName>01083209</SoundFileName>
+      <Comment>Jestliže slovo končí na e, tak se e nevyslovuje.</Comment>
+    </Sentence>
+  </Lesson>>
+
+  <Lesson lesson="09">
+
+    <Sentence>
+      <HomeLanguage>třicet tři</HomeLanguage>
+      <ForeignLanguage>trente-trois</ForeignLanguage>
+      <SoundFileName>01093300</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám byt na ulici Monge v Paříži.</HomeLanguage>
+      <ForeignLanguage>J’ai un appartement, rue Monge à Paris.</ForeignLanguage>
+      <SoundFileName>01093301</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám dům blízko Nantes.</HomeLanguage>
+      <ForeignLanguage>J’ai une maison près de Nantes.</ForeignLanguage>
+      <SoundFileName>01093302</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(on) Má dům v Nice, létá tam letadlem.</HomeLanguage>
+      <ForeignLanguage>Il a une maison à Nice, il y va en avion.</ForeignLanguage>
+      <SoundFileName>01093303</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám dvě děti.</HomeLanguage>
+      <ForeignLanguage>J’ai deux enfants.</ForeignLanguage>
+      <SoundFileName>01093304</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máš také děti?</HomeLanguage>
+      <ForeignLanguage>Tu as des enfants aussi?</ForeignLanguage>
+      <SoundFileName>01093305</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, jednoho syna a jednu dceru.</HomeLanguage>
+      <ForeignLanguage>Oui, un fils et une fille.</ForeignLanguage>
+      <SoundFileName>01093306</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anežka má zajímavé zaměstnání.</HomeLanguage>
+      <ForeignLanguage>Agnès a un métier intéressant.</ForeignLanguage>
+      <SoundFileName>01093307</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(ona) Pracuje v Évry, jezdí tam vlakem.</HomeLanguage>
+      <ForeignLanguage>Elle travaille à Évry, elle y va en train.</ForeignLanguage>
+      <SoundFileName>01093308</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Vít je lékař, má velký dům.</HomeLanguage>
+      <ForeignLanguage>Guy est docteur, il a une grande maison.</ForeignLanguage>
+      <SoundFileName>01093309</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(on) Má děti.</HomeLanguage>
+      <ForeignLanguage>Il a des enfants.</ForeignLanguage>
+      <SoundFileName>01093310</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(on) Má kočku.</HomeLanguage>
+      <ForeignLanguage>Il a un chat.</ForeignLanguage>
+      <SoundFileName>01093311</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(on) Má malé auto.</HomeLanguage>
+      <ForeignLanguage>Il a une petite voiture.</ForeignLanguage>
+      <SoundFileName>01093312</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet čtyři</HomeLanguage>
+      <ForeignLanguage>trente-quatre</ForeignLanguage>
+      <SoundFileName>01093400</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máme staré auto.</HomeLanguage>
+      <ForeignLanguage>Nous avons une vieille voiture.</ForeignLanguage>
+      <SoundFileName>01093401</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(oni) Mají nové auto.</HomeLanguage>
+      <ForeignLanguage>Ils ont une voiture neuve.</ForeignLanguage>
+      <SoundFileName>01093402</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(oni) Mají dlouhé prázdniny.</HomeLanguage>
+      <ForeignLanguage>Ils ont de longues vacances.</ForeignLanguage>
+      <SoundFileName>01093403</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máme tři týdny prázdnin.</HomeLanguage>
+      <ForeignLanguage>Nous avons trois semaines de vacances.</ForeignLanguage>
+      <SoundFileName>01093404</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máte kufry?</HomeLanguage>
+      <ForeignLanguage>Vous avez des valises?</ForeignLanguage>
+      <SoundFileName>01093405</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, máme dva kufry a tašku.</HomeLanguage>
+      <ForeignLanguage>Oui, nous avons deux valises et un sac.</ForeignLanguage>
+      <SoundFileName>01093406</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(ony) Mají nové tašky.</HomeLanguage>
+      <ForeignLanguage>Elles ont des sacs neufs.</ForeignLanguage>
+      <SoundFileName>01093407</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Anežka a Vít mají příbuzné (rodiče) v Nice.</HomeLanguage>
+      <ForeignLanguage>Agnès et Gui ont des parents à Nice.</ForeignLanguage>
+      <SoundFileName>01093408</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máme sympatické sousedy.</HomeLanguage>
+      <ForeignLanguage>Nous avons des voisins sympathiques.</ForeignLanguage>
+      <SoundFileName>01093409</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>(oni) Mají hotel na třídě Masséna.</HomeLanguage>
+      <ForeignLanguage>Ils ont un hôtel, avenue Masséna.</ForeignLanguage>
+      <SoundFileName>01093410</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máte hlad?</HomeLanguage>
+      <ForeignLanguage>Vous avez faims?</ForeignLanguage>
+      <SoundFileName>01093411</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ne, ale máme žízeň</HomeLanguage>
+      <ForeignLanguage>Non, mais nous avons soif.</ForeignLanguage>
+      <SoundFileName>01093412</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet pět</HomeLanguage>
+      <ForeignLanguage>trente-cinq</ForeignLanguage>
+      <SoundFileName>01093500</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám tři fotografie Vítka.</HomeLanguage>
+      <ForeignLanguage>J’ai trois photos de Gui.</ForeignLanguage>
+      <SoundFileName>01093501</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máš sympatické sousedy.</HomeLanguage>
+      <ForeignLanguage>Tu as des voisins sympathiques.</ForeignLanguage>
+      <SoundFileName>01093502</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Má dva syny a dceru.</HomeLanguage>
+      <ForeignLanguage>Il a deux fils et une fille.</ForeignLanguage>
+      <SoundFileName>01093503</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mají staré auto.</HomeLanguage>
+      <ForeignLanguage>Ils ont une vieille voiture.</ForeignLanguage>
+      <SoundFileName>01093504</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máme přátele ve Španělsku.</HomeLanguage>
+      <ForeignLanguage>Nous avons des amis en Espagne.</ForeignLanguage>
+      <SoundFileName>01093505</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máte děti?</HomeLanguage>
+      <ForeignLanguage>Vous avez des enfants?</ForeignLanguage>
+      <SoundFileName>01093506</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet šest</HomeLanguage>
+      <ForeignLanguage>trente-six</ForeignLanguage>
+      <SoundFileName>01093600</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Před automatem na kávu.</HomeLanguage>
+      <ForeignLanguage>Devant une machine â café.</ForeignLanguage>
+      <SoundFileName>01093601</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máte drobné, prosím?</HomeLanguage>
+      <ForeignLanguage>Vous avez la monnaie s’il vous plait?</ForeignLanguage>
+      <SoundFileName>01093602</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám pouze padesátieurovou bankovku.</HomeLanguage>
+      <ForeignLanguage>J’ai seulement un billet di cinquante euros?</ForeignLanguage>
+      <SoundFileName>01093603</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Máte štěstí!</HomeLanguage>
+      <ForeignLanguage>Vous avez de la chance!</ForeignLanguage>
+      <SoundFileName>01093604</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám tři dvoueurové mince.</HomeLanguage>
+      <ForeignLanguage>J’ai trois pièces de deux euros.</ForeignLanguage>
+      <SoundFileName>01093605</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jste tu nový?</HomeLanguage>
+      <ForeignLanguage>Vous êtes nouveau ici?</ForeignLanguage>
+      <SoundFileName>01093606</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, jsem na stáži na dva měsíce</HomeLanguage>
+      <ForeignLanguage>Qui, je suis en stage pour deux mois.</ForeignLanguage>
+      <SoundFileName>01093607</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jmenuji se Marc Van Beer, jsem Holanďan.</HomeLanguage>
+      <ForeignLanguage>Je m’appelle Marc Van Beer, je suis Hollandais.</ForeignLanguage>
+      <SoundFileName>01093608</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Těší mě!</HomeLanguage>
+      <ForeignLanguage>Enchanté!</ForeignLanguage>
+      <SoundFileName>01093609</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jmenuji se Paul Robin, je mi 27 let.</HomeLanguage>
+      <ForeignLanguage>Je m’appelle Paul Robin, j’ai vingt-sept ans.</ForeignLanguage>
+      <SoundFileName>01093610</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>A hele, jsme stejně staří.</HomeLanguage>
+      <ForeignLanguage>Tians, nous avons le même âge!</ForeignLanguage>
+      <SoundFileName>01093611</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jste ženenatý?</HomeLanguage>
+      <ForeignLanguage>Vous êtes marié?</ForeignLanguage>
+      <SoundFileName>01093612</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ano, a mám dvě děti.</HomeLanguage>
+      <ForeignLanguage>Qui, et j’ai deux enfants.</ForeignLanguage>
+      <SoundFileName>01093613</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Kolik je jim let?</HomeLanguage>
+      <ForeignLanguage>Quel âge ont-ils?</ForeignLanguage>
+      <SoundFileName>01093614</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Mám dvouletou dceru a tříměsíčního syna.</HomeLanguage>
+      <ForeignLanguage>J’ai une fille de deux ans et un fils de trois mois.</ForeignLanguage>
+      <SoundFileName>01093615</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>A Vy?</HomeLanguage>
+      <ForeignLanguage>Et vous?</ForeignLanguage>
+      <SoundFileName>01093616</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Jsem ženetý, ale děti nemáme.</HomeLanguage>
+      <ForeignLanguage>Je suis marié, mais nous n’avons pas d’enfants.</ForeignLanguage>
+      <SoundFileName>01093617</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Dáte si další kávu?</HomeLanguage>
+      <ForeignLanguage>Vous avez envie d’un autre café?</ForeignLanguage>
+      <SoundFileName>01093618</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage>Ne, děkuji, už půjdu, mám práci.</HomeLanguage>
+      <ForeignLanguage>Non merci, j’y vais, j’ai du travail.</ForeignLanguage>
+      <SoundFileName>01093619</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+    <Sentence>
+      <HomeLanguage>třicet sedm</HomeLanguage>
+      <ForeignLanguage>trente-sept</ForeignLanguage>
+      <SoundFileName>01093700</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+    <Sentence>
+      <HomeLanguage></HomeLanguage>
+      <ForeignLanguage></ForeignLanguage>
+      <SoundFileName>0109370</SoundFileName>
+      <Comment></Comment>
+    </Sentence>
+
+  </Lesson>>
+</Francais>
